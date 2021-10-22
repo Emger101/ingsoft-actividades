@@ -12,7 +12,13 @@ extra_css:
 nav:
     - Individuales:
         - Actividad Bonus: individual/actividad-bonus.md
+<<<<<<< HEAD
         - Actividad 1: individual/actividad-01.md
+=======
+        - Actividad Bonus 2: individual/actividad-bonus02.md
+        - Actividad 1: individual/actividad-01.md
+        - Actividad 2: individual/actividad-02.md
+>>>>>>> master
     - Colaborativas:
         - Actividad 1: todo.md
 copyright: ©GMDXX
